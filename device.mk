@@ -68,7 +68,8 @@ AB_OTA_POSTINSTALL_CONFIG += \
     POSTINSTALL_OPTIONAL_vendor=true
 
 PRODUCT_PACKAGES += \
-    otapreopt_script
+    otapreopt_script \
+    GCamGOPrebuilt
 
 # Apex
 OVERRIDE_TARGET_FLATTEN_APEX := true
