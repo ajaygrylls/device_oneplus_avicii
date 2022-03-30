@@ -31,12 +31,6 @@
     "remote"      : "github"
   },
   {
-    "remote": "github",
-    "repository": "aswin7469/android_packages_resources_devicesettings", 
-    "target_path": "packages/resources/devicesettings",
-    "branch": "twelve"
-  },
-  {
     "repository": "vendor_oneplus_avicii-camera",
     "target_path": "vendor/oneplus/avicii-camera",
     "branch": "eleven",
